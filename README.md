@@ -58,6 +58,8 @@ I enjoy working on **mobile apps and backend systems**, and I’m constantly imp
 
 ## 📊 GitHub Stats
 
+### 🔥 GitHub Streak
+
 <div align="center">
 
 <!-- ![Doyin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=doyinar&show_icons=true&theme=tokyonight&hide_border=true) -->
@@ -65,13 +67,12 @@ I enjoy working on **mobile apps and backend systems**, and I’m constantly imp
 
 </div>
 
----
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=doyinar&theme=tokyo-night&custom_title=Doyin's%20Activity%20Graph&color=2DD4B9&title_color=2DD4B9&line=2DD4B9&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=doyinar&theme=tokyo-night&custom_title=Doyin's%20Activity%20Graph&hide_border=true)
 
 </div>
 
