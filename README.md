@@ -1,7 +1,7 @@
 # Hi 👋, I'm Doyin Arouna
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Junior+Mobile+%26+Full-Stack+JavaScript+Developer;React+Native+%26+Expo+Enthusiast;Node.js+%26+API+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Jr.+Mobile+%26+Full-Stack+JS+Developer;React+Native+%26+Expo+Enthusiast;Node.js+%26+API+Development" />
 </p>
 
 <div align="center">
